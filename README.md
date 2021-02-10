@@ -25,11 +25,3 @@ https://bigdata.seoul.go.kr/cntst/selectCntst.do?r_id=P610&cntst_seq=45&cntst_se
 그래서 장애인을 위한 Package여행을 기획함으로써 위의 문제를 해결하고자 합니다.  
 대부분의 장애인들을 만족 시켜주기 위해서 군집 분석을 실시합니다. 경제적 수준, 이동 편의 수준 등의 특성을 통해 그룹을 세분화하고 군집별 필요 요소를 파악합니다. 이후, 관광지의 장애인 시설 구비 유무를 확인해 각 군집과 관광지 간의 Cosine 유사도를 계산하여 유사도가 0.7 이상인 관광지만 추출합니다.  
 추출한 관광지 리스트를 토대로 QGIS를 통해 공간 분석을 실시합니다. 군집 분석 시에 도출되었던 특징들을 활용하여 2차 필터링을 진행한 후 최종 Package를 제시하면서 프로젝트를 마무리합니다.
-
-### Each Code description
-1. ?:
-2. ?:
-
-### The project progress is as follows
-? -> ?
-
